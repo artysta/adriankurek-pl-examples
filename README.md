@@ -23,8 +23,23 @@ This repository consists of branches that contain simple projects and examples f
     - blog post http://adriankurek.pl/2019/02/05/najwazniejsze-informacje-o-wyjatkach-w-javie/
   - Simple Apache Maven application (JSON files parser)
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/json-parser-maven-app
-    - blog post http://adriankurek.pl/2019/03/25/podstawy-apache-maven-w-oparciu-o-prosta-aplikacje/ 
+    - blog post http://adriankurek.pl/2019/03/25/podstawy-apache-maven-w-oparciu-o-prosta-aplikacje/
+  - KeyAdapter
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-keyadapter
+    - blog post http://adriankurek.pl/2019/01/31/klasy-adaptacyjne/
+  - MouseAdapter
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-mouseadapter
+    - blog post http://adriankurek.pl/2019/01/31/klasy-adaptacyjne/
 - **JavaScript examples:**
   - Events
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/javascript-events
     - blog post http://adriankurek.pl/2019/11/11/dodawanie-zdarzen-do-elementow-dokumentu/
+  - Events 2
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/javascript-events-2
+    - blog post http://adriankurek.pl/2019/11/11/dodawanie-zdarzen-do-elementow-dokumentu/
+  - Creating elements
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/javascript-creating-elements
+    - blog post http://adriankurek.pl/2019/11/21/dodawanie-i-usuwanie-elementow-za-pomoca-javascript/
+  - LocalStorage
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/javascript-localstorage
+    - blog post http://adriankurek.pl/2020/06/30/zapisywanie-odczytywanie-i-usuwanie-danych-z-localstorage/
