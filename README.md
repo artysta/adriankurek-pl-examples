@@ -30,6 +30,24 @@ This repository consists of branches that contain simple projects and examples f
   - MouseAdapter
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-mouseadapter
     - blog post http://adriankurek.pl/2019/01/31/klasy-adaptacyjne/
+  - Scanner - reading user input
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-scanner-reading-user-input
+    - blog post http://adriankurek.pl/2019/02/01/klasa-scanner-pobieranie-danych-od-uzytkownika-i-wczytywanie-plikow/
+  - Scanner - reading files
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-scanner-reading-files
+    - blog post http://adriankurek.pl/2019/02/01/klasa-scanner-pobieranie-danych-od-uzytkownika-i-wczytywanie-plikow/
+  - FileReader & BufferedReader - reading files
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-filereader-reading-files
+    - blog post http://adriankurek.pl/2019/02/01/filereader-i-bufferedreader-wczytywanie-plikow/
+  - FileWriter & BufferedWriter - writing file
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-filewriter-writing-files
+    - blog post http://adriankurek.pl/2019/02/01/filewriter-i-bufferedwriter-zapisywanie-plikow/
+  - FileInputStream - reading bytes from a file
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-fileinputstream-reading-bytes
+    - blog post http://adriankurek.pl/2019/02/01/fileinputstream-wczytywanie-pojedynczych-bajtow/
+  - FileOutputStream - writing bytes to file
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-fileoutputstream-writing-bytes
+    - blog post http://adriankurek.pl/2019/02/01/fileoutputstream-zapisywanie-pojedynczych-bajtow/
 - **JavaScript examples:**
   - Events
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/javascript-events
