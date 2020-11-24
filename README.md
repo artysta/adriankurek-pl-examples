@@ -48,6 +48,9 @@ This repository consists of branches that contain simple projects and examples f
   - FileOutputStream - writing bytes to file
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-fileoutputstream-writing-bytes
     - blog post http://adriankurek.pl/2019/02/01/fileoutputstream-zapisywanie-pojedynczych-bajtow/
+  - Hibernate ORM framework (+ MySQL & Apache Maven)
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-hibernate-jpa-app
+    - blog post http://adriankurek.pl/2019/08/22/jpa-i-hibernate-tworzenie-projektu-maven/
 - **JavaScript examples:**
   - Events
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/javascript-events
