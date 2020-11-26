@@ -64,3 +64,6 @@ This repository consists of branches that contain simple projects and examples f
   - LocalStorage
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/javascript-localstorage
     - blog post http://adriankurek.pl/2020/06/30/zapisywanie-odczytywanie-i-usuwanie-danych-z-localstorage/
+  - Cookies
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/javascript-cookies
+    - blog post http://adriankurek.pl/2020/07/18/dodawanie-i-usuwanie-ciasteczek-cookies/
