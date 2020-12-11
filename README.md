@@ -1,6 +1,8 @@
-# adriankurek-pl-examples
+# adriankurek.pl | Examples | Java | KeyAdapter
 
 Simple Java application related to KeyAdapter class.
+
+Blog post: http://adriankurek.pl/2019/01/31/klasy-adaptacyjne/ 🇵🇱
 
 # How to run?
 
