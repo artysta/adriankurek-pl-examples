@@ -2,6 +2,12 @@
 
 This repository consists of branches that contain simple projects and examples from my website.
 
+You can clone whole repo (containing all of the examples) or just specific branches.
+
+- **Whole repo:**
+
+      `git clone https://github.com/artysta/adriankurek-pl-examples.git`
+
 - **Java examples:**
   - FocusListener
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-focuslistener
