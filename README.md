@@ -1,6 +1,6 @@
 # adriankurek-pl-examples
 
-This repository consists of branches that contain simple projects and examples from my website.
+This repository consists of branches that contain simple projects and examples from my website (blog posts are in Polish).
 
 You can clone whole repo (containing all of the examples) or just specific branches.
 
@@ -11,7 +11,7 @@ You can clone whole repo (containing all of the examples) or just specific branc
 - **Java examples:**
   - FocusListener
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-focuslistener
-    - blog post url http://adriankurek.pl/2019/01/31/interfejs-focuslistener/
+    - blog post http://adriankurek.pl/2019/01/31/interfejs-focuslistener/
   - KeyListener
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/java-keylistener
     - blog post http://adriankurek.pl/2019/01/31/interfejs-keylistener/
@@ -73,3 +73,7 @@ You can clone whole repo (containing all of the examples) or just specific branc
   - Cookies
     - branch https://github.com/artysta/adriankurek-pl-examples/tree/javascript-cookies
     - blog post http://adriankurek.pl/2020/07/18/dodawanie-i-usuwanie-ciasteczek-cookies/
+- **Xamarin.Forms examples:**
+  - How to hide API Key using Embedded resource?
+    - branch https://github.com/artysta/adriankurek-pl-examples/tree/HideApiKeyApp
+    - blog post http://adriankurek.pl/2020/07/29/jak-ukryc-klucz-api-w-aplikacji-xamarin/
