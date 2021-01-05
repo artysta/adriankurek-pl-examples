@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HideApiKeyApp.Views.MainPage"
+             Title="HideApiKeyApp">
+
+    <StackLayout>
+        <Button Text="Show Api Key"
+                Clicked="Show_Button_Clicked" />
+        <Label Text="{ Binding RestApiUrl, StringFormat='REST API URL: {0}'}" />
+        <Label Text="{ Binding RestApiKey, StringFormat='REST API KEY: {0}' }" />
+    </StackLayout>
+
+</ContentPage>

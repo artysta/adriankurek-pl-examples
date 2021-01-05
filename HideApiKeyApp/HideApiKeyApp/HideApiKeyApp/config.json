@@ -1,0 +1,4 @@
+﻿{
+  "RestApiUrl": "https://someapiurl.com/v2/",
+  "RestApiKey": "SOME_API_KEY"
+}
