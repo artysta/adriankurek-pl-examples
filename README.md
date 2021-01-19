@@ -2,20 +2,20 @@
 
 Simple Java application related to writing bytes to a file using FileOutputStream class.
 
-#### Instruction:
+## Instruction:
 
-Clone branch:
+1. Clone branch:
 
-`git clone --single-branch --branch java-fileoutputstream-writing-bytes https://github.com/artysta/adriankurek-pl-examples.git`
+        `git clone --single-branch --branch java-fileoutputstream-writing-bytes https://github.com/artysta/adriankurek-pl-examples.git`
 
-Go to the folder:
+2. Go to the folder:
 
-`cd adriankurek-pl-examples/java-fileoutputstream-writing-bytes/`
+        `cd adriankurek-pl-examples/java-fileoutputstream-writing-bytes/`
 
-Compile:
+3. Compile:
 
-`javac pl/adriankurek/App.java`
+        `javac pl/adriankurek/App.java`
 
-Run:
+4. Run:
 
-`java pl.adriankurek.App`
+        `java pl.adriankurek.App`
