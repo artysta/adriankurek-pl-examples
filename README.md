@@ -4,36 +4,36 @@ Simple Java application related to the Hibernate ORM framework.
 
 ## Instruction:
 
-- Install MySQL:
+1. Install MySQL:
 
-      `choco install mysql`
+        choco install mysql
 
-- Connect to the MySQL server:
+2. Connect to the MySQL server:
 
-      `mysql -u root`
+        mysql -u root
 
-- Create database:
+3. Create database:
 
-      `create database localdatabase;`
+        CREATE DATABASE localdatabase;
 
-- Install Apache Maven:
+4. Install Apache Maven:
 
-      `choco install maven`
+        choco install maven
 
-- Clone branch:
+5. Clone branch:
 
-      `git clone --single-branch --branch java-hibernate-jpa-app https://github.com/artysta/adriankurek-pl-examples.git`
+        git clone --single-branch --branch java-hibernate-jpa-app https://github.com/artysta/adriankurek-pl-examples.git
 
-- Go to the folder:
+6. Go to the folder:
 
-      `cd adriankurek-pl-examples/java-hibernate-jpa-app/`
+        cd adriankurek-pl-examples/java-hibernate-jpa-app/
 
-- Compile:
+7. Compile:
 
-      `mvn clean install`
+        mvn clean install
 
-- Run:
+8. Run:
 
-      `mvn exec:java -Dexec.mainClass="pl.adriankurek.main.App"`
+        mvn exec:java -Dexec.mainClass="pl.adriankurek.main.App"
 
 Each time you run this app, it adds new random car to the database.
